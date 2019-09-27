@@ -1,0 +1,4 @@
+
+class ExcepcionPuntaje < StandardError
+
+end	
